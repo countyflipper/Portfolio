@@ -6,4 +6,4 @@
  5. [Vehicle Distance and Similarity Metric](https://github.com/countyflipper/Vehicle-distance-and-similarity-metric)
  6. [C# Scripts](https://github.com/countyflipper/OCC_Console_Projects)
  7. [Realtor Project](https://github.com/countyflipper/Realtor)
- 8. [Java Simulator] (https://github.com/countyflipper/JavaSim)
+ 8. [Java Simulator](https://github.com/countyflipper/JavaSim)
