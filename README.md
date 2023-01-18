@@ -8,3 +8,4 @@
  7. [Realtor Project](https://github.com/countyflipper/Realtor)
  8. [Java Simulator](https://github.com/countyflipper/JavaSim)
  9. [Java Application CRUD](https://github.com/countyflipper/JavaApplication1)
+ 10. [Movie API Template](https://github.com/countyflipper/MoviesApi)
